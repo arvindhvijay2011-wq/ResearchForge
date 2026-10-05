@@ -1,0 +1,178 @@
+[
+  {
+    "case_id": "ai_education_001",
+    "question": "What are the strongest evidence-based benefits and risks of generative AI in higher education?",
+    "pipeline_completed": true,
+    "planner_task_count": 4,
+    "planner_task_count_ok": true,
+    "findings_count": 4,
+    "source_count": 19,
+    "tool_call_count": 17,
+    "report_present": true,
+    "report_section_count": 4,
+    "required_topic_coverage": 0.75,
+    "judge": {
+      "correctness": 8,
+      "completeness": 7,
+      "groundedness": 6,
+      "clarity": 8,
+      "overall": 7,
+      "rationale": "The report accurately reflects many benefits and risks of generative AI based on the provided research evidence, but could better articulate the complexities and nuanced findings regarding equity and the implications for academic integrity. While the benefits section is solidly backed by evidence, the discussion around risks could benefit from more depth regarding conflicting perspectives and the need for careful implementation. Overall, it is a well-organized report that communicates its points clearly, although groundings in the uncertainties and gaps in the evidence could be stronger."
+    },
+    "elapsed_seconds": 40.35
+  },
+  {
+    "case_id": "solar_wind_001",
+    "question": "Compare solar and wind energy for utility-scale electricity generation.",
+    "pipeline_completed": true,
+    "planner_task_count": 4,
+    "planner_task_count_ok": true,
+    "findings_count": 4,
+    "source_count": 25,
+    "tool_call_count": 18,
+    "report_present": true,
+    "report_section_count": 5,
+    "required_topic_coverage": 0.8,
+    "judge": {
+      "correctness": 8,
+      "completeness": 8,
+      "groundedness": 7,
+      "clarity": 8,
+      "overall": 7,
+      "rationale": "The report accurately discusses the dynamics of solar and wind energy, citing correct costs and efficiencies, and matches the claims with the supplied evidence. However, it sometimes presents comparisons with insufficient contextualization of uncertainties. The treatment of the evidence gaps is commendable but overly reliant on the nuances of cost predictions without adequate attention to the impact of these uncertainties on the final conclusions. The report is clearly organized and mostly concise, but some sections could have benefited from further elaboration on the implications of the findings."
+    },
+    "elapsed_seconds": 48.74
+  },
+  {
+    "case_id": "judo_bjj_001",
+    "question": "Compare Judo and Brazilian Jiu-Jitsu for a beginner interested in competition, self-defense, and long-term training.",
+    "pipeline_completed": true,
+    "planner_task_count": 4,
+    "planner_task_count_ok": true,
+    "findings_count": 4,
+    "source_count": 20,
+    "tool_call_count": 14,
+    "report_present": true,
+    "report_section_count": 4,
+    "required_topic_coverage": 0.4,
+    "judge": {
+      "correctness": 8,
+      "completeness": 7,
+      "groundedness": 8,
+      "clarity": 8,
+      "overall": 7,
+      "rationale": "The report provides a well-structured comparison of Judo and Brazilian Jiu-Jitsu addressing competition, self-defense, and training methods. The correctness of factual claims aligns well with the provided evidence, and the completeness is good, but it lacks some details about long-term training implications. Groundedness is strong, as claims are well-supported but could improve by addressing uncertainty about health benefits more explicitly. Clarity is good, with organized sections and readable format, contributing to an overall competent report, but a bit more depth in certain areas would enhance its utility."
+    },
+    "elapsed_seconds": 44.78
+  },
+  {
+    "case_id": "ev_petrol_001",
+    "question": "Compare electric vehicles and petrol cars for a typical driver considering purchase cost, running cost, emissions, and practicality.",
+    "pipeline_completed": true,
+    "planner_task_count": 4,
+    "planner_task_count_ok": true,
+    "findings_count": 4,
+    "source_count": 14,
+    "tool_call_count": 13,
+    "report_present": true,
+    "report_section_count": 4,
+    "required_topic_coverage": 1.0,
+    "judge": {
+      "correctness": 8,
+      "completeness": 9,
+      "groundedness": 8,
+      "clarity": 8,
+      "overall": 8,
+      "rationale": "The report accurately compares electric vehicles and petrol cars in terms of purchase costs, running costs, emissions, and practicality. Key points are backed by relevant evidence, demonstrating the advantages and challenges of EVs versus petrol cars. However, while the report discusses various aspects extensively, it contains some uncertainties related to regional variations and long-term sustainability that are only hinted at rather than deeply explored. Overall, the report is well-structured and presents its arguments clearly, but there could be more depth in addressing certain limitations."
+    },
+    "elapsed_seconds": 37.8
+  },
+  {
+    "case_id": "mesopotamia_001",
+    "question": "What were the major features of urban life in ancient Mesopotamia, and what evidence do historians use to understand them?",
+    "pipeline_completed": true,
+    "planner_task_count": 4,
+    "planner_task_count_ok": true,
+    "findings_count": 4,
+    "source_count": 20,
+    "tool_call_count": 15,
+    "report_present": true,
+    "report_section_count": 4,
+    "required_topic_coverage": 0.6,
+    "judge": {
+      "correctness": 8,
+      "completeness": 8,
+      "groundedness": 7,
+      "clarity": 8,
+      "overall": 7,
+      "rationale": "The report provides a comprehensive overview of major features of urban life in ancient Mesopotamia, addressing social structures, urban planning, economic activities, and archaeological evidence. However, it falls short in providing specific examples that substantiate some of the claims, especially regarding daily life and specific economic practices. While the information is well-structured and articulated clearly, certain assertions seem overly generalized, leading to a rating of 7 in groundedness. Overall, it effectively captures the essence of the ancient civilization while acknowledging limitations in the evidence."
+    },
+    "elapsed_seconds": 40.94
+  },
+  {
+    "case_id": "semiconductor_001",
+    "question": "How are modern semiconductor chips manufactured, from wafer fabrication through packaging and testing?",
+    "pipeline_completed": true,
+    "planner_task_count": 4,
+    "planner_task_count_ok": true,
+    "findings_count": 4,
+    "source_count": 20,
+    "tool_call_count": 13,
+    "report_present": true,
+    "report_section_count": 4,
+    "required_topic_coverage": 0.8,
+    "judge": {
+      "correctness": 8,
+      "completeness": 8,
+      "groundedness": 7,
+      "clarity": 8,
+      "overall": 7,
+      "rationale": "The report provides a generally accurate and comprehensive overview of the semiconductor chip manufacturing process, including wafer fabrication, packaging, and testing procedures, which are properly detailed and supported by relevant evidence. However, there are gaps in addressing specific recent advancements and some uncertainties in technologies due to limited evidence. While clarity is maintained throughout, the report's claims occasionally extend into less substantiated territory, leading to some lower groundedness. The overall score reflects a solid understanding of the topic that could be improved with further detail and stronger evidence support."
+    },
+    "elapsed_seconds": 39.81
+  },
+  {
+    "case_id": "nuclear_renewables_001",
+    "question": "Compare nuclear power and renewable energy for reducing electricity-sector carbon emissions.",
+    "pipeline_completed": true,
+    "planner_task_count": 4,
+    "planner_task_count_ok": true,
+    "findings_count": 4,
+    "source_count": 18,
+    "tool_call_count": 15,
+    "report_present": true,
+    "report_section_count": 4,
+    "required_topic_coverage": 0.4,
+    "judge": {
+      "correctness": 8,
+      "completeness": 8,
+      "groundedness": 7,
+      "clarity": 8,
+      "overall": 7,
+      "rationale": "The report provides a strong comparative analysis of nuclear power and renewable energy regarding their carbon emissions reduction potential. It includes accurate factual claims, such as life-cycle emissions figures and nuclear's share in low-carbon electricity. However, the discussion of uncertainties is somewhat vague and not fully substantiated with specific evidence from the supplied research. While it covers many important aspects of the comparison, it could benefit from deeper engagement with specific evidence gaps and contradictions, particularly concerning renewable energy's impact and economic viability. The organization and clarity of the report are solid, making it readable and comprehensible overall."
+    },
+    "elapsed_seconds": 74.55
+  },
+  {
+    "case_id": "inflation_001",
+    "question": "What are the main causes of inflation, and how do central banks typically respond to persistent inflation?",
+    "pipeline_completed": true,
+    "planner_task_count": 4,
+    "planner_task_count_ok": true,
+    "findings_count": 4,
+    "source_count": 17,
+    "tool_call_count": 13,
+    "report_present": true,
+    "report_section_count": 5,
+    "required_topic_coverage": 0.4,
+    "judge": {
+      "correctness": 8,
+      "completeness": 9,
+      "groundedness": 7,
+      "clarity": 8,
+      "overall": 8,
+      "rationale": "The report accurately addresses the causes of inflation (demand-pull, cost-push, and inflation expectations) and how central banks typically respond to persistent inflation (interest rate adjustments, use of monetary policy tools). It is mostly complete, with all significant aspects covered, though some points about economic influences and bank strategies could utilize further empirical backing. Groundedness is somewhat affected by the report acknowledging limitations regarding the generality and effectiveness of strategies without strong quantitative evidence, which introduces some uncertainty. The clarity of the report is good; it is organized and conveys information effectively, but could be slightly more concise."
+    },
+    "elapsed_seconds": 34.51
+  }
+]

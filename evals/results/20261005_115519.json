@@ -1,0 +1,46 @@
+[
+  {
+    "case_id": "ai_education_001",
+    "question": "What are the strongest evidence-based benefits and risks of generative AI in higher education?",
+    "pipeline_completed": true,
+    "planner_task_count": 4,
+    "planner_task_count_ok": true,
+    "findings_count": 4,
+    "source_count": 25,
+    "tool_call_count": 17,
+    "report_present": true,
+    "report_section_count": 6,
+    "required_topic_coverage": 0.75,
+    "judge": {
+      "correctness": 8,
+      "completeness": 9,
+      "groundedness": 7,
+      "clarity": 8,
+      "overall": 8,
+      "rationale": "The report presents a balanced overview of the benefits and risks associated with generative AI in higher education, correctly identifying key points from the provided research evidence. It accurately reflects the evidence regarding the enhancement of academic workflows, personalized learning, and the risks of misconduct and data security issues. However, some claims could be more grounded in specific studies, as there is reliance on general statements without precise citation of sources for every point made. The structure and organization of the report are clear, contributing to its readability, but the need for clearer citations in some sections lowers the groundedness score."
+    },
+    "elapsed_seconds": 39.23
+  },
+  {
+    "case_id": "solar_wind_001",
+    "question": "Compare solar and wind energy for utility-scale electricity generation.",
+    "pipeline_completed": true,
+    "planner_task_count": 4,
+    "planner_task_count_ok": true,
+    "findings_count": 4,
+    "source_count": 20,
+    "tool_call_count": 16,
+    "report_present": true,
+    "report_section_count": 7,
+    "required_topic_coverage": 0.8,
+    "judge": {
+      "correctness": 8,
+      "completeness": 9,
+      "groundedness": 7,
+      "clarity": 8,
+      "overall": 8,
+      "rationale": "The report accurately reflects the economic, technological, and environmental aspects of solar and wind energy based on the provided research evidence. It thoroughly addresses major points for comparison, including costs and environmental impacts, although there are a few inaccuracies in LCOE values and potential exaggerations related to technology advancements in some sections. The report is generally well-organized and easy to follow, with concise presentations of key findings. However, it could improve by more explicitly stating uncertainties or specifying the sourcing for some claims, particularly regarding contradictions and evidence gaps."
+    },
+    "elapsed_seconds": 37.23
+  }
+]

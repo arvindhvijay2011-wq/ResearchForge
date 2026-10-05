@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-core
+langchain-openai
+tavily-python
+streamlit>=1.63.0
+pydantic
+python-dotenv
