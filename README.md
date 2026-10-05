@@ -41,3 +41,18 @@ User Question
                    │
                    ▼
             Final Research Report
+
+
+
+
+
+
+## 🚀 Live Demo
+
+Try the deployed application:
+
+**[Launch ResearchForge →](https://researchforge-2v6k2rt4avrhmz36npjt8k.streamlit.app/)**
+
+Source code:
+
+**[View the GitHub Repository →](https://github.com/arvindhvijay2011-wq/ResearchForge)**
